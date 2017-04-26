@@ -30,8 +30,8 @@ If you find Faster R-CNN useful in your research, please consider citing:
     }
 
 ### Main Results
-                          | training data                          | test data            | mAP   | time/img
-------------------------- |:--------------------------------------:|:--------------------:|:-----:|:-----:
+|                          | training data                          | test data            | mAP   | time/img|
+|------------------------- |:--------------------------------------:|:--------------------:|:-----:|:-----:|
 Faster RCNN, VGG-16       | VOC 2007 trainval                      | VOC 2007 test        | 69.9% | 198ms
 Faster RCNN, VGG-16       | VOC 2007 trainval + 2012 trainval      | VOC 2007 test        | 73.2% | 198ms
 Faster RCNN, VGG-16       | VOC 2012 trainval                      | VOC 2012 test        | 67.0% | 198ms
